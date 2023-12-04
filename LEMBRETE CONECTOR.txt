@@ -1,0 +1,1 @@
+Lembrando que para o codigo funcionar deve ser inserida a biblioteca de conexao postgres
